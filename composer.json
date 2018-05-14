@@ -1,0 +1,22 @@
+{
+    "name": "sebi/ball_project",
+    "description": "Ball Project",
+    "type": "project",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Sebastian Hoffer",
+            "email": "sebastian.hoffer@htl.rennweg.at"
+        }
+    ],
+    "require": {
+        "sebi/ball": "^2.0",
+        "typo3fluid/fluid": "^2.5"
+    },
+    "repositories": {
+        "ballpackage": {
+            "type": "vcs",
+            "url": "https://github.com/sebihoffer/ball_library.git"
+        }
+    }
+}

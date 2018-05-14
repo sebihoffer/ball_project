@@ -1,0 +1,18 @@
+{
+    "name": "sebi/ball",
+    "description": "PHP Ball Library",
+    "type": "library",
+    "license": "GNU",
+    "authors": [
+        {
+            "name": "Sebastian Hoffer",
+            "email": "sebastian.hoffer@htl.rennweg.at"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "sebi\\ball\\": "src/"
+        }
+    }
+}
